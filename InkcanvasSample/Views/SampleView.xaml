@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:InkcanvasSample.Views"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
-    <Grid>
+    <InkCanvas>
             
-    </Grid>
+    </InkCanvas>
 </UserControl>
